@@ -28,13 +28,13 @@ body {
     /* border: 10px solid White; */
     display: flex;
     flex-direction: column;
-    Background-color: white
+    Background-color: rgba(255, 255, 255, 0.812)
 }
 
 /* NAVBAR  */
 .navbar {
     height: 10%;
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
     position: static;
 }
 
@@ -87,7 +87,7 @@ content a:hover {
 /* Body */
 
 .bodycontent {
-    background-color: rgba(172, 172, 172, 0.465);
+
     display: flex;
 }
 
@@ -111,3 +111,4 @@ content a:hover {
 .statlist>ol {
     list-style-type: circle;
 }
+
